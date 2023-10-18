@@ -1,0 +1,35 @@
+{
+    "id": "fe2950ce-286f-40d4-946c-fa29b0c7f5b0",
+    "vars_stat": {
+        "Birth Year": "1882 AD",
+        "Birth Region": "Asia",
+        "Birth Subregion": "West Asia/Middle East (e.g., Iran, Saudi Arabia)",
+        "Ethnicity": "Arab",
+        "Parents Socioeconomic Class": "middle class",
+        "Gender": "female",
+        "Age at Death": "<30",
+        "Cause of Death": "Maternal Mortality",
+        "Occupation": "housewife",
+        "Religion": "Islam",
+        "Marital Status": "married",
+        "Family Structure": "Single child"
+    },
+    "vars_html": {
+        "Biography": "Salima Al-Farisi was born in the flourishing city of Mecca, in the then Ottoman Empire, on the 10th of October, 1882. She was the only child of her parents, both traders with roots deeply connected to the bustling marketplace. Raised amidst the scent of spices, vibrant textiles, and the constant hum of haggling voices, she grew up with a strong sense of humble pride towards her middle-class family and fellow community members.\n\nSalima took immense pride in her diverse cultural heritage which was deeply encompassed by the Islamic faith. The faith imbued her values, her way of life, and her perception of the world around her. From a young age, Salima had a fond reverence for the Grand Mosque, the centre of spiritual life in Mecca. \n\nIn 1898, at the age of sixteen, Salima married Ahmed Al-Khouri, a young carpet merchant from her community. As a housewife, she was involved in the upbringing of the local children and the management of her familial house. Her devotion to her faith and her attention to her responsibilities conveyed a strong sense of integrity and diligence, values commonly upheld by the women of her time and community. \n\nUnfortunately, in 1910, she suffered complications during childbirth which led to her sudden demise at the young age of 27, leaving behind her husband, Ahmed Al-Khouri.",
+        "Title Data": {
+            "name": "Salima Al-Farisi",
+            "exact birth date": "10.10.1882",
+            "exact death date": "16.2.1910",
+            "home area": "Mecca, Ottoman Empire (modern-day Saudi Arabia)"
+        },
+        "Obituary": "We are saddened to announce the passing of Salima Al-Farisi, who took her last breath on February 16th, 1910, at the age of 27. Born and raised in Mecca, Salima was deeply entrenched in the vibrant commerce and faith-driven life of the city. As a perfect counterpart to her husband, Ahmed Al-Khouri, she was a well-loved and respected member of our community.\n\nA staunch follower of the Islamic faith, Salima was brought up nurturing the values therein, none more pronounced than her strength in community and the importance of family. A mentor and guide to the children of our community, her wisdom and patience have left imprints upon the lives of many.\n\nSalima, dedicated even in her last moments, gave her life at childbirth. Her spirit and enduring tenderness will continue to be a comforting memory for all who knew her. We mourn her loss and celebrate the time we shared with her. Her memory continues to live in the hearts of our community.",
+        "Image Prompt": "Photograph of a 27 year old Arab woman wearing traditional clothing of 1910 Mecca, looking content and happy in her household. \nIn the background, children can be seen, represented as a part of her motherly role in the community."
+    },
+    "files": {
+        "json": "docs/data/fe2950ce-286f-40d4-946c-fa29b0c7f5b0.json",
+        "log": "logs/fe2950ce-286f-40d4-946c-fa29b0c7f5b0.log",
+        "html": "docs/data/fe2950ce-286f-40d4-946c-fa29b0c7f5b0.html",
+        "image": "docs/data/fe2950ce-286f-40d4-946c-fa29b0c7f5b0.png",
+        "text": "docs/data/fe2950ce-286f-40d4-946c-fa29b0c7f5b0.html"
+    }
+}

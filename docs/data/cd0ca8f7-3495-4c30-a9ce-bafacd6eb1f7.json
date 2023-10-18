@@ -1,0 +1,35 @@
+{
+    "id": "cd0ca8f7-3495-4c30-a9ce-bafacd6eb1f7",
+    "vars_stat": {
+        "Birth Year": "1070 AD",
+        "Birth Region": "Europe",
+        "Birth Subregion": "Eastern Europe",
+        "Ethnicity": "Slavic",
+        "Parents Socioeconomic Class": "Serfs/Peasants",
+        "Gender": "male",
+        "Age at Death": "11-20 years",
+        "Cause of Death": "Injuries & Accidents",
+        "Occupation": "Farmer",
+        "Religion": "Eastern Orthodox Christianity",
+        "Marital Status": "Single",
+        "Family Structure": "Orphan"
+    },
+    "vars_html": {
+        "Biography": "Vladimir was born on a cold winter night, January 7, 1070 AD, in a modest peasant household on the outskirts of Kievan Rus', in what is now Ukraine. His parents, simple Eastern Orthodox Christians and diligent serfs, bestowed upon him the principles of humility, resilience, and honesty. \n\nGrowing up, young Vladimir worked alongside his parents in the fields \u2013 cultivating rye, oats, and other crops endemic to Eastern Europe. Being an only child, he often found himself having to carry mature responsibilities on his tender shoulders, as was the norm in those times. \n\nTragedy struck the family when both Vladimir's parents tragically died when he was only ten. An unexpected bout of plague wiped out much of the village, leaving Vladimir an orphan. The dire situation did not hinder Vladimir, and he continued to tend to the fields and feed himself using the farming techniques his parents had taught him.\n\nSadly, Vladimir's life was cut short. On June 21, 1082, at the age of 12, while trying to tame a new horse for plowing, he suffered a heavy fall. The accident left him with a severe broken leg that, in the absence of proper medical intervention, caused a fatal infection and claimed his life eight days later.\n\nDespite his short life, Vladimir demonstrated a unique spirit of perseverance and resilience in the face of adversities. His life remains a testament to the strength of people living in the challenging and brutal circumstances of the late 11th century Eastern Europe.",
+        "Title Data": {
+            "name": "Vladimir",
+            "exact birth date": "7.1.1070 AD",
+            "exact death date": "29.6.1082 AD",
+            "home area": "Outskirts of Kievan Rus'"
+        },
+        "Obituary": "With deep sorrow, we announce the untimely demise of our youngest farmer, Vladimir. He took his last breath on this worldly plane on June 29, 1082, following a horrifying accident. Although just 12 winters old, Vladimir's spirit was as mighty and unyielding as the oldest oaks.\n\nVladimir was born on a frosty night in January 1070, among the humblest of families in the outskirts of Kievan Rus'. He was a beacon of light for his parents and fellow villagers. As an ardent Eastern Orthodox Christian, he practiced faith with complete surrender.\n\nA diligent and hardworking individual, Vladimir spent most of his tender years cultivating our fields, feeding his village with the fruits of his sweat and blood. Though an orphan from a young age, he showed relentless spirit and strength.\n\nDespite his premature death, he leaves behind a story of courage and perseverance which will continue to inspire us for generations to come. May his soul find peace in the arms of our Lord.",
+        "Image Prompt": "Photograph of a 12 year old Eastern European peasant boy, Vladimir, standing in his field in 11th century Kievan Rus'. He is wearing a simple tunic and holding a rudimentary wooden plow. His face bears a look of determination and resilience. In the background, a humble village and dense forest can be seen."
+    },
+    "files": {
+        "json": "docs/data/cd0ca8f7-3495-4c30-a9ce-bafacd6eb1f7.json",
+        "log": "logs/cd0ca8f7-3495-4c30-a9ce-bafacd6eb1f7.log",
+        "html": "docs/data/cd0ca8f7-3495-4c30-a9ce-bafacd6eb1f7.html",
+        "image": "docs/data/cd0ca8f7-3495-4c30-a9ce-bafacd6eb1f7.png",
+        "text": "docs/data/cd0ca8f7-3495-4c30-a9ce-bafacd6eb1f7.html"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "9c1fe3cc-851e-427a-a3aa-ac4441120d66",
+    "vars_stat": {
+        "Birth Year": "1949 AD",
+        "Birth Region": "Asia",
+        "Birth Subregion": "East Asia",
+        "Ethnicity": "Han Chinese",
+        "Parents Socioeconomic Class": "Lower Class / Working Class",
+        "Gender": "male",
+        "Age at Death": "Death at age 31-60 due to various causes, primarily health",
+        "Cause of Death": "Chronic Respiratory Diseases",
+        "Occupation": "manufacturer worker",
+        "Religion": "Confucianism",
+        "Marital Status": "Divorced",
+        "Family Structure": "In a relationship, 2 children"
+    },
+    "vars_html": {
+        "Biography": "Born in the tumultuous era of 1949 in East Asia, Zhao Wei lived his life navigating through a rapidly reshaping China. The second of the Cold War after the catastrophic Sino-Japanese War, China had become the People's Republic of China. Amidst this politically volatile landscape, Zhao, an ethnic Han Chinese, grew up in the gritty underbelly of the urban jungle.\n\nZhao was born into a lower-class, working-class family. His parents, integral cogs in the machinery of mass manufacturing, worked tirelessly to provide for their two sons. Life was challenging, and their socioeconomic status offered them little reprieve, a reality that Zhao carried with him throughout his life.\n\nThe goal was always survival, and religion played a soothing role in Zhao's life. As a devout follower of Confucianism, he found peace in its teachings, cultivating virtue, and maintaining traditional societal values. This belief helped him navigate the hardships of his childhood and served as his moral compass as he came of age.\n\nAt a young age, Zhao followed his parent's path, becoming a worker in a manufacturing factory. He quickly learned the grind and grit required in labor-intensive jobs. Despite the harsh working conditions, he was driven to provide for his family and worked tirelessly throughout his life.\n\nMarrying young, as was common for individuals of his social class at the time, he had two children, a boy and a girl. However, the marriage didn't last long, and Zhao found himself divorced by his late twenties. Undeterred, he found love again, and nurtured a thriving relationship with his new partner, forming a blissful, unconventional family.\n\nDespite life's harsh jabs, Zhao lived for his children, and his themes of resilience and love define his story. Sadly, he succumbed to chronic respiratory diseases in his early fifties, a typical malady for workers exposed to the harsh factory conditions. His life, although brief, was impactful, a testament to an ordinary man's perseverance and resilience in circumstances most unforgiving.",
+        "Title Data": {
+            "name": "Zhao Wei",
+            "exact birth date": "1949/07/21",
+            "exact death date": "2001/10/19",
+            "home area": "East Asia, China"
+        },
+        "Image Prompt": "Create an image of a middle-aged Han Chinese man, standing strong against the backdrop of a bustling factory in urban China. He's clad in the ordinary worker's garb, greased with toil and streaked with sweat. Despite the signs of hard labour, he wears a determined smile, showing resilience in adversity."
+    },
+    "files": {
+        "json": "docs/data/9c1fe3cc-851e-427a-a3aa-ac4441120d66.json",
+        "log": "logs/9c1fe3cc-851e-427a-a3aa-ac4441120d66.log",
+        "html": "docs/data/9c1fe3cc-851e-427a-a3aa-ac4441120d66.html",
+        "image": "docs/data/9c1fe3cc-851e-427a-a3aa-ac4441120d66.png",
+        "text": "docs/data/9c1fe3cc-851e-427a-a3aa-ac4441120d66.html"
+    }
+}

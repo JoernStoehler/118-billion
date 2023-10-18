@@ -1,0 +1,35 @@
+{
+    "id": "0d55bce4-dc21-4411-a846-81d03c9fce77",
+    "vars_stat": {
+        "Birth Year": "9768 BC",
+        "Birth Region": "Northern Africa",
+        "Birth Subregion": "Sudan region",
+        "Ethnicity": "Kushitic/Afro-Asiatic group",
+        "Parents Socioeconomic Class": "Hunter",
+        "Gender": "female",
+        "Age at Death": "6-15 years",
+        "Cause of Death": "Infectious Disease",
+        "Occupation": "Gatherer",
+        "Religion": "Animism-like beliefs",
+        "Marital Status": "unmarried",
+        "Family Structure": "Nuclear Family"
+    },
+    "vars_html": {
+        "Biography": "Shaniya was born in 9768 BC in what is now known today as the Sudan region of Northern Africa. She was the daughter of Kushitic hunters that belonged to the Afro-Asiatic group, who lived by hunting game and gathering food from the land.\n\nAt an early age, Shaniya showed a keen eye for collecting fruits, roots, and herbs, providing her family with much needed sustenance in this prehistoric age. Despite her age, she was tenacious, known to wander beyond the ordinary boundaries of their region to find substantial food sources - a task generally assumed by adults. She unfolded her duty as a gatherer with deep knowledge of the season and locations of the harvest that ensured their survival.\n\nShaniya and her family held a strong belief in animism, a belief system where they envisaged a spirit or force beyond the physical world, and integrated it into their daily life. They attributed special spirits to outstanding natural features, such as mountains, trees, and rivers. Shaniya\u2019s favourite spirit was embodied by the tallest acacia tree in their region, which she believed protected her during her gathering expeditions.\n\nShe died at the age of 12 from an infectious disease that, despite her parents attempts to sustain her with herbs, ended her short life. Unmarried, and a cherished part of her nuclear family, her death was a painful blow to her closely knit circle.",
+        "Title Data": {
+            "name": "Shaniya",
+            "exact birth date": "9768 BC",
+            "exact death date": "9756 BC",
+            "home area": "Sudan region of Northern Africa"
+        },
+        "Obituary": "In the year 9756 BC, we mourn the loss of young Shaniya. Her short life was taken away by a sudden infectious disease that even the prized herbs of our region couldn't heal.\n\nShaniya, hailing from the Kushitic hunters of the Afro-Asiatic group, quickly became known in us as an agile gatherer. She left a profound impact on our community by exploring extensive lands for food while daringly venturing beyond known boundaries.\n\nWe will remember her brave soul and deep love for the land. Her faith in the acacia tree spirit's protection was inspiring. We can only hope that her beloved tree spirit is gently guarding her journey into the afterlife.\n\nEven though a short span of time, Shaniya\u2019s life was of import to the survival of our community. Her loss leaves a void that will never be filled.",
+        "Image Prompt": "Photograph of a 12-year-old girl standing tall in the arid landscapes of prehistoric Sudan, in approximately 9756 BC. The girl - Afro-Asiatic heritage apparent in her features - holds a handful of fruits and roots in one hand and a stout walking stick in the other. In the background, an imposing acacia tree reaches for the sky, standing as a testament to her animistic faith."
+    },
+    "files": {
+        "json": "docs/data/0d55bce4-dc21-4411-a846-81d03c9fce77.json",
+        "log": "logs/0d55bce4-dc21-4411-a846-81d03c9fce77.log",
+        "html": "docs/data/0d55bce4-dc21-4411-a846-81d03c9fce77.html",
+        "image": "docs/data/0d55bce4-dc21-4411-a846-81d03c9fce77.png",
+        "text": "docs/data/0d55bce4-dc21-4411-a846-81d03c9fce77.html"
+    }
+}

@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    opacity: 0; /* Added opacity here for the whole container */
+    transition: opacity 0.5s;
+}
+
+#contentImage {
+    width: 100%;
+    max-width: 480px; /* Reduced to account for the added padding */
+    margin: 20px;
+}
+
+#textContent {
+    min-height: 50px; /* Set a minimum height */
+    margin: 40px; /* Added margin-bottom for spacing */
+}
+
+#loadButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: rgb(32, 32, 32);
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}

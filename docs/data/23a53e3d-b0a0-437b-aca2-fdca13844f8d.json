@@ -1,0 +1,35 @@
+{
+    "id": "23a53e3d-b0a0-437b-aca2-fdca13844f8d",
+    "vars_stat": {
+        "Birth Year": "1923 AD",
+        "Birth Region": "Europe",
+        "Birth Subregion": "Eastern Europe",
+        "Ethnicity": "Belarusian",
+        "Parents Socioeconomic Class": "Peasant or Working Class",
+        "Gender": "female",
+        "Age at Death": "80-89",
+        "Cause of Death": "Cancers",
+        "Occupation": "Factory Worker",
+        "Religion": "Eastern Orthodox Christianity",
+        "Marital Status": "Married",
+        "Family Structure": "Traditional Nuclear Family"
+    },
+    "vars_html": {
+        "Biography": "Tatiana Antonovna Kuznetsova was born in 1923 in the small village of Bobruisk, located in the Mogilev region of eastern Belarus. Born into a family of peasant farmers, Tatiana was no stranger to hardship and manual labor. Throughout her childhood, Belarus suffered its fair share of turmoil, namely fallout from the Russian Revolution, economic hardships, and the rise of the Soviet Union. This hardship instilled in Tatiana an unyielding spirit and strong work ethic that would mold her future. As a young woman, she was drafted to work in a Manufacturing Factory during the Second World War and post-war period, which also relocated her to Minsk, the capital of Belarus.\n\nShe was a devout follower of Eastern Orthodox Christianity and was very active in the local church community. In 1947, Tatiana married her fellow factory worker, Nikolai. Their marriage was both a love match and a partnership of shared struggles and aspirations. The couple had two children, a son named Igor and a daughter named Elena, who they raised in their modest apartment. Tatiana, along with her husband, played a pivotal role in nurturing their children with a strong sense of family and tradition.\n\nDespite the hardships she faced due to her low socioeconomic background and challenging working conditions, she was known for her resilience, compassion, and unwavering faith. She passed away at the age of 86 in 2009 due to cancer. Tatiana left an enduring legacy of perseverance and deeply-held family values for future generations. Her life represented the untold story of countless Belarusian women of her generation who weathered through rough times with pure grit and soulful faith.",
+        "Title Data": {
+            "name": "Tatiana Antonovna Kuznetsova",
+            "exact birth date": "17.10.1923",
+            "exact death date": "12.11.2009",
+            "home area": "Bobruisk, Mogilev, Belarus"
+        },
+        "Obituary": "On 12th November 2009, we bid a sorrowful farewell to Tatiana Antonovna Kuznetsova, who succumbed to her battle with cancer at the age of 86. Born in Bobruisk in 1923, she was a pillar of strength and bravery throughout her life, overcoming tremendous adversities with an enduring spirit. \n\nTatiana contributed significantly to the war effort as a factory worker during the Second World War and continued her tireless service afterwards. A devoted Eastern Orthodox Christian, her faith and active participation in the local church community positively influenced many lives. As the devoted wife of Nikolai and the loving mother to Igor and Elena, she molded a traditional nuclear family and was a guiding light to her children.\n\nTatiana will be remembered as a symbol of resilience, faith, and a mother's unwavering love. Her spirit will continue to shine within those who knew her. Our thoughts and prayers go out to Nikolai, Igor, Elena, and the rest of her grieving family. May she find eternal peace in the arms of the Lord. Rest in Peace, Tatiana Kuznetsova. ",
+        "Image Prompt": "A sepia-toned photograph of a hardworking and resilient female factory worker in her early 30s against the backdrop of a Soviet-era manufacturing factory. She wears a simple but neat worker's uniform and a headscarf, her eyes reflecting determination. A hint of Eastern Orthodox cross visible around her neck serves as a testament to her faith. In the far background, outlines of Minsk's famed architecture and the silhouette of an Eastern Orthodox church can be spotted, emphasizing her geographical and religious roots. "
+    },
+    "files": {
+        "json": "docs/data/23a53e3d-b0a0-437b-aca2-fdca13844f8d.json",
+        "log": "logs/23a53e3d-b0a0-437b-aca2-fdca13844f8d.log",
+        "html": "docs/data/23a53e3d-b0a0-437b-aca2-fdca13844f8d.html",
+        "image": "docs/data/23a53e3d-b0a0-437b-aca2-fdca13844f8d.png",
+        "text": "docs/data/23a53e3d-b0a0-437b-aca2-fdca13844f8d.html"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "35cbc13e-4188-4a5b-bbdd-2f98fd78a88a",
+    "vars_stat": {
+        "Birth Year": "3014 BC",
+        "Birth Region": "Sumer",
+        "Birth Subregion": "Nippur",
+        "Ethnicity": "Sumerian",
+        "Parents Socioeconomic Class": "Laborers & Slaves",
+        "Gender": "male",
+        "Age at Death": "0-20 years",
+        "Cause of Death": "Disease",
+        "Occupation": "Labour/Slave Work (15-20 years)",
+        "Religion": "Sumerian Paganism",
+        "Marital Status": "Single",
+        "Family Structure": "No Family"
+    },
+    "vars_html": {
+        "Biography": "Enlil-nadin was born in 3014 BC in the Sumerian city of Nippur. The oldest of five siblings, he was a son of two slave laborers. Despite his low social status, Enlil-nadin held firm to his faith in Sumerian paganism, hoping for ascension from his mortal hardships.\n\nLife in Nippur was grueling for Enlil-nadin, and so he learned his parent\u2019s trade early on. His callused hands were ever stained with clay and dust, forever shaping bricks for the city walls and the grand ziggurats.\n\nEnlil-nadin's sixth summer was marked by the tragic loss of his family to malnutrition and strain from work. From then on, the city and its harsh realities were his only kin. Living conditions were harsh, yet he became stronger, surviving day by day.\n\nAt 15, Enlil-nadin was noticed by a high-ranking official who admired his tenacity. The official, albeit exploiting his free labor, gave him a certain level of protection.\n\nUnfortunately, a dysentery outbreak in 2994 BC ended his brief existence at 20. He worked until his last breath, leaving this mortal plane single and childless, bearing the weight of life with the same resilience he demonstrated since childhood.",
+        "Title Data": {
+            "name": "Enlil-nadin",
+            "exact birth date": "3014 BC",
+            "exact death date": "2994 BC",
+            "home area": "Nippur, Sumer"
+        },
+        "Obituary": "We remember Enlil-nadin, a son of Nippur, who left us in 2994 BC at the tender age of 20. Although of slave origins, Enlil-nadin's tenacity was unmatched and his spirit unbroken despite his relentless life in servitude. \n\nIn addition to his tireless work, Enlil-nadin will also be remembered for his piety. Even as a young child, his faith in Sumerian paganism was unwavering, giving him hope in the bleakest of circumstances. \n\nCut down in his prime by an outbreak of disease, Enlil-nadin will be remembered not for how he died but how he lived, undeterred by oppressions and focused on the task at hand. May his memory be a beacon for all those who toil under the cruel whip of hardship. ",
+        "Image Prompt": "Illustration of a strong young Sumerian man in the city of Nippur around the year 3000 BC. He is hard at work under the burning sun, showing his callused hands dirtied from the clay bricks he shapes. Behind him tower the might of ziggurats and city walls under construction. His countenance is serious yet resilient, a clear reflection of his harsh life. The sunset painting the city in a warm glow encapsulates his enduring spirit against a challenging reality."
+    },
+    "files": {
+        "json": "docs/data/35cbc13e-4188-4a5b-bbdd-2f98fd78a88a.json",
+        "log": "logs/35cbc13e-4188-4a5b-bbdd-2f98fd78a88a.log",
+        "html": "docs/data/35cbc13e-4188-4a5b-bbdd-2f98fd78a88a.html",
+        "image": "docs/data/35cbc13e-4188-4a5b-bbdd-2f98fd78a88a.png",
+        "text": "docs/data/35cbc13e-4188-4a5b-bbdd-2f98fd78a88a.html"
+    }
+}

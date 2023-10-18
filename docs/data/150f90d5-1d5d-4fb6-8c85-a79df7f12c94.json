@@ -1,0 +1,35 @@
+{
+    "id": "150f90d5-1d5d-4fb6-8c85-a79df7f12c94",
+    "vars_stat": {
+        "Birth Year": "367 AD",
+        "Birth Region": "Indian Subcontinent",
+        "Birth Subregion": "Other",
+        "Ethnicity": "Indo-Aryan",
+        "Parents Socioeconomic Class": "Lower Class (Sudras, peasants, serfs)",
+        "Gender": "male",
+        "Age at Death": "26-30",
+        "Cause of Death": "infectious diseases",
+        "Occupation": "Servant",
+        "Religion": "Buddhism",
+        "Marital Status": "Married",
+        "Family Structure": "Extended/Joint Family"
+    },
+    "vars_html": {
+        "Biography": "Bodhan was born in the year 367 AD in a small and humble village in the Indian subcontinent. His family, members of the Sudra caste, lived a life of labor, serving the more prosperous households in the community. Bodhan was no exception. His life was shaped by the confines of his birth and the socioeconomic structures that governed society, but his spirit remained unbroken under the weight of hardship.\n\nClothed in simple garments of dyed cotton, akin to other folks of his social standing, Bodhan was a servant in the household of a wealthy landowner. With dutiful acceptance of his lot in life, he carried out his duties diligently. Despite the challenging circumstances, he found comfort in the teachings of Buddha, which he learnt from the begging monks who would often visit their village. His faith inspired him with a sense of peace and tranquility, providing him solace from the harsh realities of his life.\n\nWhen Bodhan turned 20, he wed Devi, a girl from a neighbouring village, in a simple ceremony that bore witness to their union. Life swiftly moved on, and they were soon blessed with a son, who was named Samak. As a family, they mirrored the structure of most families in their society - living in joint households with various relatives contributing to the shared livelihood.\n\nBodhan's life, however, was not long. At the age of 29, he tragically succumbed to an infectious disease that swept across the village, leaving a trail of sorrow in its wake. His death in 396 AD marked the end of a humble life lived within the confines of time, societal structures, and nature's dictates.",
+        "Title Data": {
+            "name": "Bodhan",
+            "exact birth date": "1.1.367 AD",
+            "exact death date": "1.1.396 AD",
+            "home area": "A small village in Indian Subcontinent"
+        },
+        "Obituary": "Our hearts are laden with sorrow as we mourn the untimely departure of our beloved Bodhan. Born into the Sudra class, Bodhan served with dignity and humility, his spirit unyielding to the trials of life. He leaves behind his wife, Devi, and his son, Samak, who are immersed in profound grief. \n\nBodhan was a beacon of faith in our community. His devotion to Buddhism was deep and unwavering, providing balm to his soul and inspiring many around him. His loss is profoundly felt by all who knew him.\n\nHe lived his life in service, always carrying out his duties with an unwavering diligence that set him apart. We remember him not as a mere servant but as a humble man of strength, as a devotee of Buddha, as a loving husband, and as a caring father.\n\nBodhan's journey was prematurely curtailed by a rampant infectious disease, which took him from us at a tender age of 29. As we commit his body to the flames, we bid him eternal peace, hoping that he finds solace in the enlightened path of Buddha's teachings. His memory will live on in the hearts of those who knew him and loved him.",
+        "Image Prompt": "Photograph of a man in his late twenties from ancient India, specifically the year 396 AD. He has a hardened and humble look, evident from his worn-out clothes and a petite body bearing signs of physical labor. His hands are firmly clasped in prayer, revealing his dedication towards Buddhism. Behind him, the setting sun dips down over a rural Indian village with simple thatched huts, signifying the humble lifestyle of the man."
+    },
+    "files": {
+        "json": "docs/data/150f90d5-1d5d-4fb6-8c85-a79df7f12c94.json",
+        "log": "logs/150f90d5-1d5d-4fb6-8c85-a79df7f12c94.log",
+        "html": "docs/data/150f90d5-1d5d-4fb6-8c85-a79df7f12c94.html",
+        "image": "docs/data/150f90d5-1d5d-4fb6-8c85-a79df7f12c94.png",
+        "text": "docs/data/150f90d5-1d5d-4fb6-8c85-a79df7f12c94.html"
+    }
+}

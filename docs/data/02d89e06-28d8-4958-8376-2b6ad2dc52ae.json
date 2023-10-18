@@ -1,0 +1,35 @@
+{
+    "id": "02d89e06-28d8-4958-8376-2b6ad2dc52ae",
+    "vars_stat": {
+        "Birth Year": "354 AD",
+        "Birth Region": "Alexandria (Egypt)",
+        "Birth Subregion": "Surrounding Rural Areas, Egypt",
+        "Ethnicity": "Egyptian",
+        "Parents Socioeconomic Class": "Freemen (Tradesman, Small Farm Owners etc.)",
+        "Gender": "female",
+        "Age at Death": "40-50 years old",
+        "Cause of Death": "Disease",
+        "Occupation": "Food processor",
+        "Religion": "Christian (Arianism)",
+        "Marital Status": "Married",
+        "Family Structure": "Married with 2-4 Children"
+    },
+    "vars_html": {
+        "Biography": "Aurelia was born in 354 AD in the rural outskirts of the once thriving metropolis of Alexandria, Egypt. The child of freemans, she was the youngest daughter of a tradesman father and a mother who managed their small farmstead. Raised in a world heavily influenced by the Roman Empire's diminishing grasp, Aurelia lived her life amid constant societal flux.\n\nFrom an early age, Aurelia was put to work assisting in the family's food processing trade. Involved in preparing and preserving the fruits of their farm, she spent countless hours under the Mediterranean sun drying grapes, olives, and figs\u2014an occupation that continued into her adulthood. Famous for her hard work and dedication, her processed foods became one of the most sought-after in local markets.\n\nIn 372 AD, Aurelia married a fellow tradesperson, Marcus, a woodworker. They shared common beliefs\u2014both were followers of Arianism, a branch of Christianity that was popular but controversial in their era. Together they navigated through the pros and cons of their faith, continually reinforcing their bond in the process.\n\nAurelia and Marcus were blessed with three children\u2014two sons and a daughter. Life was hard, but the couple managed to give their offspring a better life than what they had experienced. They dreamed of their children growing up to hold more respectable occupations, perhaps becoming scholars, merchants, or priests.\n\nSadly, in 394 AD, at the age of 40, Aurelia's life was cut short by a rampant bout of what is now believed to have been dysentery. Despite the advancements in medical knowledge of Alexandria's urban centre, Aurelia's rural lifestyle meant she had no access to such developments. Her death was a devastating blow to her loved ones and community.\n",
+        "Title Data": {
+            "name": "Aurelia ",
+            "exact birth date": "7.12.354 AD",
+            "exact death date": "25.6.394 AD",
+            "home area": "Rural Outskirts of Alexandria, Egypt"
+        },
+        "Obituary": "On June 25th, 394 AD, we mourn the loss of Aurelia, a cherished wife, mother, and a beloved member of our community. Her death comes as a shock to all of us, as it is certain the skies indeed weep with her absence.\n\nAurelia was known throughout the region for her dedication to her craft, putting countless hours of labor into creating beautiful works of culinary artistry from the simplest of fruits. Her spirit, determination, and resilience were admired by everyone who knew her. Her works of food processing did not just nourish our bodies, but also warmed our souls with the taste of home and comfort.\n\nMuch more than a food processor, Aurelia was a pillar of the Christian community. A devoted follower of Arianism, she was unwavering in her faith, even when it was tested. She was a peacemaker, coat of arms, shelter, and disciplinarian. Her faith shined through her every day, and she lived by the doctrine of her beliefs.\n\nAbove all, she was a beacon of love. Her love for her family was evident in her every word and action. Her endless sacrifices, especially her enduring love for her husband, Marcus, and their three children, are testimonies of a mother and wife who have given their all to their family.\n\nWhile we grieve the loss, we will remember Aurelia for her infectious positivity and her unyielding resilience. In her memory, let\u2019s honor her by carrying her legacy of love, faith, and hard work forward. \n",
+        "Image Prompt": "Photograph of a 35-year-old Egyptian woman working in a sunlit field of the rural outskirts of Alexandria in 390 AD. Dressed in simple Roman era rural attire, she is seen processing food. She smiles gently while handling olives. In the background, her husband and children are working on the farm. The farm is surrounded by the warm tones of an arid landscape blended with vibrant greenery. "
+    },
+    "files": {
+        "json": "docs/data/02d89e06-28d8-4958-8376-2b6ad2dc52ae.json",
+        "log": "logs/02d89e06-28d8-4958-8376-2b6ad2dc52ae.log",
+        "html": "docs/data/02d89e06-28d8-4958-8376-2b6ad2dc52ae.html",
+        "image": "docs/data/02d89e06-28d8-4958-8376-2b6ad2dc52ae.png",
+        "text": "docs/data/02d89e06-28d8-4958-8376-2b6ad2dc52ae.html"
+    }
+}

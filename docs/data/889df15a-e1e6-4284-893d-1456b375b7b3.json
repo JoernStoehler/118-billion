@@ -1,0 +1,34 @@
+{
+    "id": "889df15a-e1e6-4284-893d-1456b375b7b3",
+    "vars_stat": {
+        "Birth Year": "1751 AD",
+        "Birth Region": "Asia",
+        "Birth Subregion": "East Asia",
+        "Ethnicity": "Japanese",
+        "Parents Socioeconomic Class": "Samurai family",
+        "Gender": "male",
+        "Age at Death": "50-60",
+        "Cause of Death": "Old age or natural causes",
+        "Occupation": "Government Official",
+        "Religion": "Shinto and Buddhism",
+        "Marital Status": "Widowed",
+        "Family Structure": "Extended family"
+    },
+    "vars_html": {
+        "Biography": "Yoshiro Takahashi was born in 1751 AD, into a samurai family in Edo, a city known today as Tokyo, in East Asia, in the heart of Japan. Born under the rule of the Edo or Tokugawa shogunate, Yoshiro grew up receiving a traditional samurai's education. The blend of political acumen and martial arts prowess with the teachings of Shinto and Buddhism ingrained him with profound principles of honor, loyalty, and wisdom from a young age.\n\nBeing a part of the esteemed samurai class, Yoshiro's childhood bore witness to privilege and responsibility. His family, like the society they inhabited, was structured around Confucian principles, creating a patriarchal hierarchy extending from Yoshiro's father to his youngest nephew. The family spent their days in their large manor, which buzzed with the activities of numerous relatives and several loyal servants.\n\nAs he matured, Yoshiro undertook the responsibility of carrying forward the legacy of his lineage. A few years into young adulthood, Yoshiro was inducted as a government official, serving the Tokugawa administration, as was expected from a man of his stature. In this capacity, he contributed to the governance and administration of Edo, which expanded rapidly during his tenure, becoming the world's largest city by population.\n\nYoshiro padded his life's journey with the teachings of both Shinto and Buddhism. His spirituality offered him a balance between the Shinto teachings of appreciation, reverence for life and nature, and the Buddhist principles of enlightenment and compassion. They guided his decisions as a government official and shaped the way he lived his life.\n\nIn his mid-thirties, Yoshiro married a woman who was equally resolute and noble. Their shared values echoed in the halls of their home and in the hearts of their children. Even after his wife succumbed to sickness, leaving Yoshiro a widower, her memories lived on in the family and in Yoshiro's heart.\n\nYoshiro lived to endorse the changing times, witnessing the transformation of Edo and adapting his methods with it, continuing until his later years. His life was a testament to his principles, resilience, and leadership.\n\nAt the age of 57, as the sun set on a mild spring day, Yoshiro passed away within the familiarity of his family and the comfort of his home. His legacy, however, persists in the annals of his descendants and all those whose lives bore the imprint of his influence. Even though Yoshiro Takahashi's life was ensnared within the intricate webs of history, his story resonates like an ageless whisper from the past, reminding us of a time wrapped in honor, duty and the passage of an era.",
+        "Title Data": {
+            "name": "Yoshiro Takahashi",
+            "exact birth date": "1751/01/21 ",
+            "exact death date": "1808/04/19",
+            "home area": "Edo, East Asia"
+        },
+        "Image Prompt": "Portrait of Yoshiro Takahashi, a 40-year-old male government official from Edo period Japan, standing against the backdrop of a traditional Japanese household. Dressed in a kimono, symbolizing his socio-economic class as samurai, Yoshiro exudes calm, with the light of wisdom and experience in his eyes. His posture exudes the confidence of a samurai and the elegance of a scholar. The background should illustrate the intimate setup of his extended family, hinting at the vibrant and bustling life within it."
+    },
+    "files": {
+        "json": "docs/data/889df15a-e1e6-4284-893d-1456b375b7b3.json",
+        "log": "logs/889df15a-e1e6-4284-893d-1456b375b7b3.log",
+        "html": "docs/data/889df15a-e1e6-4284-893d-1456b375b7b3.html",
+        "image": "docs/data/889df15a-e1e6-4284-893d-1456b375b7b3.png",
+        "text": "docs/data/889df15a-e1e6-4284-893d-1456b375b7b3.html"
+    }
+}
