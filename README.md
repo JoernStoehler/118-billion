@@ -1,6 +1,6 @@
-# 117 Billion
+# 118 Billion
 
-This is the source code for [117billion.com](https://117billion.com).
+This is the source code for [joernstoehler.github.io/118billion](https://joernstoehler.github.io/118billion/).
 
 We don't know most of humanity. 
 

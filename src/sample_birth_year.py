@@ -6,12 +6,12 @@ import scipy.interpolate
 from typing import Optional, OrderedDict
 from human import Human
 
-def get_birth_percentiles(year_start, year_end):
+def get_cumulative_births(year_start, year_end):
     """
     Enables sampling the year of a random human birth.
     Returns:
         years: numpy array of consecutive years
-        percentiles: numpy array of percentiles        
+        cumsum_births: numpy array of cumulative number of births   
     """
 
     src_file = "src/sample_birth_year.csv"
@@ -22,14 +22,14 @@ def get_birth_percentiles(year_start, year_end):
 
     # read data
     with open(src_file, 'r') as f:
-        reader = csv.reader(f, delimiter='\t')
+        reader = csv.reader(f)
         src = list(reader)
         src = src[1:] # remove header
         src = [[int(row[0]), float(row[1]), float(row[2])] for row in src]
 
     src_year = numpy.array([row[0] for row in src]) 
     src_pop = numpy.array([row[1] for row in src]) * 1e6
-    src_birth = numpy.array([row[2] for row in src]) * 1e3
+    src_birth = numpy.array([row[2] for row in src]) / 1e3
 
     src_bpy = src_pop * src_birth
     src_log_bpy = numpy.log(src_bpy)
@@ -43,7 +43,6 @@ def get_birth_percentiles(year_start, year_end):
     bpy = numpy.exp(log_bpy)
 
     bsum = numpy.cumsum(bpy)
-    bsum = bsum / bsum[-1]
 
     return year, bsum
 
@@ -60,7 +59,8 @@ def sample_birth_year(human: Human, var_name: str = "birth_year", year_range = (
         return
 
     tgt_perc = numpy.random.uniform()
-    year, perc = get_birth_percentiles(*year_range)
+    year, bsum = get_cumulative_births(*year_range)
+    bsum = bsum / bsum[-1] # normalize to 0..1
     # find the year that corresponds to the percentile
     tgt_idx = numpy.searchsorted(perc, tgt_perc)
     tgt_year = int(year[tgt_idx])
@@ -71,3 +71,13 @@ def sample_birth_year(human: Human, var_name: str = "birth_year", year_range = (
     # store value
     human.vars_stat[var_name] = value
     human.save()
+
+if __name__ == "__main__":
+    year, bsum = get_cumulative_births(-190000, 2030)
+    import matplotlib.pyplot as plt
+    plt.plot(year, bsum / 1e9)
+    plt.ylim(0, bsum[-1] / 1e9)
+    plt.xlim(year[0], year[-1])
+    plt.xlabel("Year")
+    plt.ylabel("Cumulative number of births in billions")
+    plt.show()
