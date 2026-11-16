@@ -1,37 +1,40 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: black;
-    color: white;
+    background-color: #000;
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 
-.container {
-    width: 100%;
+#content {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     max-width: 800px;
-    margin: 50px auto;
-    text-align: center;
-    opacity: 0; /* Added opacity here for the whole container */
-    transition: opacity 0.5s;
-}
-
-#contentImage {
-    width: 100%;
-    max-width: 480px; /* Reduced to account for the added padding */
-    margin: 20px;
-}
-
-#textContent {
-    min-height: 50px; /* Set a minimum height */
-    margin: 40px; /* Added margin-bottom for spacing */
-}
-
-#loadButton {
-    display: block;
     margin: 20px auto;
+
+    opacity: 1;
+    transition: opacity 0.5s; /* Adjust the time for a quicker/slower fade */
+}
+#content.fade {
+    opacity: 0;
+}
+
+.title-data, .biography, .obituary {
+    margin-bottom: 20px;
+}
+
+#next {
     padding: 10px 20px;
-    background-color: rgb(32, 32, 32);
-    color: rgb(255, 255, 255);
     border: none;
+    background-color: #333;
+    color: #fff;
     cursor: pointer;
+}
+
+#bio-image {
+    width: 50%;
+    margin: 20px auto; /* center image */
+    display: block;
+    margin-bottom: 20px;
 }

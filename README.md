@@ -1,6 +1,6 @@
 # 118 Billion
 
-This is the source code for [joernstoehler.github.io/118billion](https://joernstoehler.github.io/118billion/).
+This is the source code for [joernstoehler.github.io/118-billion](https://joernstoehler.github.io/118-billion/).
 
 We don't know most of humanity. 
 
